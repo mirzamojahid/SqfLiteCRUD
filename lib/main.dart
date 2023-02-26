@@ -10,7 +10,7 @@ final dbMirza = DatabaseMirza();
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
 /*
-autor: Mirza Mojahid
+author: Mirza Mojahid
 github: https://github.com/mirzamojahid
 linkedin: https://bd.linkedin.com/in/mirzamojahid
 Startup(TourX): https://tourx.com.bd
